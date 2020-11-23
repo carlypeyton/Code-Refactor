@@ -4,12 +4,13 @@ This project, for Horiseon Social Solution Services, Inc., required a new title,
 
 Screenshots:
 
+Screenshot 1:
 ![image](https://user-images.githubusercontent.com/73730307/100004074-f7c19200-2d94-11eb-9889-8760ac14d834.png)
 
-
+Screenshot 2:
 ![image](https://user-images.githubusercontent.com/73730307/100004083-fabc8280-2d94-11eb-9a1f-a1a1ab1f95f1.png)
 
-
+Screenshot 3:
 ![image](https://user-images.githubusercontent.com/73730307/100004085-fb551900-2d94-11eb-936f-49d676949969.png)
 
 URL of Deployed Application:
