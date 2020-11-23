@@ -5,8 +5,6 @@ This project, for Horiseon Social Solution Services, Inc., required a new title,
 Screenshots:
 
 
-
-
 URL of Deployed Application:
 
 https://carlypeyton.github.io/Code-Refactor/Develop/index.html
